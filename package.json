@@ -1,0 +1,13 @@
+{
+  "name": "word-flip-game",
+  "version": "1.0.0",
+  "description": "낱말 관계 카드 뒤집기 게임 서버",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
